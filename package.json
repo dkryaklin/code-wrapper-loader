@@ -1,0 +1,19 @@
+{
+  "name": "code-wrapper-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "file_wrapper_loader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkryaklin/code-wrapper-loader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkryaklin/code-wrapper-loader/issues"
+  },
+  "homepage": "https://github.com/dkryaklin/code-wrapper-loader#readme"
+}
